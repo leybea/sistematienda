@@ -90,7 +90,7 @@
 						  </li>
 						  <li class="submenu">
                          <a href="#">
-                            <i class="glyphicon glyphicon-book"></i> Reportes
+                            <i class="glyphicon glyphicon-book"></i> Reporte
                             <span class="caret pull-right"></span>
                          </a>
                          <!-- Sub menu -->
